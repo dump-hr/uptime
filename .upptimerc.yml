@@ -2,13 +2,19 @@ owner: dump-hr
 repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: test web
-    url: https://menze.bdeak.net/
+  - name: dump.hr
+    url: https://dump.hr/
+  - name: days.dump.hr
+    url: https://days.dump.hr/
+  - name: 2021.days.dump.hr
+    url: https://2021.days.dump.hr/
+  - name: 2019.days.dump.hr
+    url: https://2019.days.dump.hr/
+  - name: 2018.days.dump.hr
+    url: https://2018.days.dump.hr/
+  - name: 2017.days.dump.hr
+    url: https://2017.days.dump.hr/
+  - name: day.dump.hr
+    url: https://day.dump.hr/
+  - name: turnir.dump.hr
+    url: https://turnir.dump.hr
