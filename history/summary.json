@@ -22,19 +22,19 @@
     "url": "https://days.dump.hr/",
     "icon": "https://favicons.githubusercontent.com/days.dump.hr",
     "slug": "days-dump-hr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2629,
-    "timeDay": 8552,
-    "timeWeek": 3432,
-    "timeMonth": 2629,
-    "timeYear": 2629,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2607,
+    "timeDay": 6447,
+    "timeWeek": 3299,
+    "timeMonth": 2607,
+    "timeYear": 2607,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 25
     }
   },
   {
