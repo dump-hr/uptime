@@ -4,18 +4,20 @@
     "url": "https://dump.hr/",
     "icon": "https://icons.duckduckgo.com/ip3/dump.hr.ico",
     "slug": "dump-hr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 605,
-    "timeWeek": 677,
-    "timeMonth": 805,
-    "timeYear": 828,
-    "dailyMinutesDown": {}
+    "time": 827,
+    "timeDay": 668,
+    "timeWeek": 684,
+    "timeMonth": 803,
+    "timeYear": 827,
+    "dailyMinutesDown": {
+      "2022-10-03": 0
+    }
   },
   {
     "name": "days.dump.hr",
